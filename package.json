@@ -1,9 +1,17 @@
 {
-  "name": "input-mask",
+  "name": "parcel-sandbox",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "description": "Simple Parcel Sandbox",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
   "dependencies": {
-    "@pluginjs/input-mask": "^0.2.19"
+    "chalk": "2.4.1",
+    "lodash": "4.17.10"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
   }
 }
