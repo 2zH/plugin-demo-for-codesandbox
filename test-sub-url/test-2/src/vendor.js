@@ -1,0 +1,13 @@
+import '@pluginjs/feature
+import '@pluginjs/component
+import '@pluginjs/is
+import '@pluginjs/emitter
+import '@pluginjs/global-plugin
+import '@pluginjs/template
+import '@pluginjs/utils
+import '@pluginjs/classes
+import '@pluginjs/dom
+import '@pluginjs/i18n
+import '@pluginjs/events
+import '@pluginjs/pluginjs
+import '@pluginjs/styles
