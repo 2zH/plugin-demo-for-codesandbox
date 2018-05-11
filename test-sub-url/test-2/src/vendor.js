@@ -11,3 +11,4 @@ import '@pluginjs/i18n
 import '@pluginjs/events
 import '@pluginjs/pluginjs
 import '@pluginjs/styles
+import '@pluginjs/input-mask

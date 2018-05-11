@@ -8,7 +8,8 @@ import '@pluginjs/utils
 import '@pluginjs/classes
 import '@pluginjs/dom
 import '@pluginjs/i18n
+import '@pluginjs/styled
 import '@pluginjs/events
 import '@pluginjs/pluginjs
 import '@pluginjs/styles
-import '@pluginjs/input-mask
+import '@pluginjs/accordion
